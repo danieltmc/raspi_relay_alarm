@@ -6,11 +6,11 @@ OS: Raspbian
 
 Peripherals: 
 
-  \t*Sainsmart 4-Channel Relay Board
+  * Sainsmart 4-Channel Relay Board
   
-  \t*Generic Breadboard
+  * Generic Breadboard
   
-  \t*Generic Jumper Wires
+  * Generic Jumper Wires
 
 Setup: Extension cord (with three outlets) wired to channel 1 of 4-channel relay, set to close the circuit when activated.
 
